@@ -14,9 +14,19 @@ namespace Cobalt.IPSecurity
                 FileProvider = new EmbeddedFileProvider(assembly, "Cobalt.IPSecurity.wwwroot")
             });
 
-            // Maybe this should live in another method because it must be called before UseMvc
+            return target;
+        }
+
+        /// <summary>
+        /// This has to run before UseMvc
+        /// </summary>
+        /// <param name="target"></param>
+        /// <returns></returns>
+        public static IApplicationBuilder UseCPProtection(this IApplicationBuilder target)
+        {
             target.Use(async (context, next) =>
             {
+                // This is just a dumb example
                 var isControlPanel = context.Request.Path.StartsWithSegments(new PathString("/cp"));
                 if (isControlPanel)
                 {

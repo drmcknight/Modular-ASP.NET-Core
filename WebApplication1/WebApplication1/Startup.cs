@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Cobalt.Forums;
+﻿using Cobalt.Forums;
 using Cobalt.IPSecurity;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -42,11 +37,14 @@ namespace WebApplication1
                 app.UseExceptionHandler("/Home/Error");
             }
 
-            app.UseStaticFiles()
-               .UseIPSecurity()
-               .UseMvc()
-               .UseForums();
+            // Register Security middleware
+            app.UseCPProtection();
 
+            // Register Mvc and our plugins
+            app.UseStaticFiles()
+               .UseMvc()
+               .UseForums()
+               .UseIPSecurity();
         }
     }
 }
