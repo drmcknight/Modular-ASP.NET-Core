@@ -1,4 +1,3 @@
-C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\obj\Debug\netcoreapp2.0\Cobalt.Forums.csprojResolveAssemblyReference.cache
 C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\obj\Debug\netcoreapp2.0\Cobalt.Forums.csproj.CoreCompileInputs.cache
 C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\obj\Debug\netcoreapp2.0\Cobalt.Forums.AssemblyInfoInputs.cache
 C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\obj\Debug\netcoreapp2.0\Cobalt.Forums.AssemblyInfo.cs
