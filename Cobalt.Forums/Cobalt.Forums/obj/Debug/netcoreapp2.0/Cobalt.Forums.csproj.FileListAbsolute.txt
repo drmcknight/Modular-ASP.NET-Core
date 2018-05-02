@@ -1,0 +1,16 @@
+C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\obj\Debug\netcoreapp2.0\Cobalt.Forums.csprojResolveAssemblyReference.cache
+C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\obj\Debug\netcoreapp2.0\Cobalt.Forums.csproj.CoreCompileInputs.cache
+C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\obj\Debug\netcoreapp2.0\Cobalt.Forums.AssemblyInfoInputs.cache
+C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\obj\Debug\netcoreapp2.0\Cobalt.Forums.AssemblyInfo.cs
+C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\bin\Debug\netcoreapp2.0\Cobalt.Forums.deps.json
+C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\bin\Debug\netcoreapp2.0\Cobalt.Forums.runtimeconfig.json
+C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\bin\Debug\netcoreapp2.0\Cobalt.Forums.runtimeconfig.dev.json
+C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\bin\Debug\netcoreapp2.0\Cobalt.Forums.dll
+C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\bin\Debug\netcoreapp2.0\Cobalt.Forums.pdb
+C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\obj\Debug\netcoreapp2.0\Cobalt.Forums.dll
+C:\Projects\Unobtainium\Cobalt.Forums\Cobalt.Forums\obj\Debug\netcoreapp2.0\Cobalt.Forums.pdb
+C:\Projects\Unobtainium\packages\Cobalt.Forums\1.0.0.0\netcoreapp2.0\Cobalt.Forums.deps.json
+C:\Projects\Unobtainium\packages\Cobalt.Forums\1.0.0.0\netcoreapp2.0\Cobalt.Forums.runtimeconfig.json
+C:\Projects\Unobtainium\packages\Cobalt.Forums\1.0.0.0\netcoreapp2.0\Cobalt.Forums.runtimeconfig.dev.json
+C:\Projects\Unobtainium\packages\Cobalt.Forums\1.0.0.0\netcoreapp2.0\Cobalt.Forums.dll
+C:\Projects\Unobtainium\packages\Cobalt.Forums\1.0.0.0\netcoreapp2.0\Cobalt.Forums.pdb

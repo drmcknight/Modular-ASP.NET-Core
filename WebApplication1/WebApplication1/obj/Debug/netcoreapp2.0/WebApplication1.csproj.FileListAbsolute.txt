@@ -1,0 +1,16 @@
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\Cobalt.Forums.dll
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\Cobalt.IPSecurity.dll
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\Cobalt.Forums.pdb
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\Cobalt.IPSecurity.pdb
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CopyComplete
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Projects\Unobtainium\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb

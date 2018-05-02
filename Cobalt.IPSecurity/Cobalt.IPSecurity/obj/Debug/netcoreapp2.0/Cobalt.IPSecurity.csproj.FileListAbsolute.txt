@@ -1,0 +1,16 @@
+C:\Projects\Unobtainium\Cobalt.IPSecurity\Cobalt.IPSecurity\bin\Debug\netcoreapp2.0\Cobalt.IPSecurity.deps.json
+C:\Projects\Unobtainium\Cobalt.IPSecurity\Cobalt.IPSecurity\bin\Debug\netcoreapp2.0\Cobalt.IPSecurity.runtimeconfig.json
+C:\Projects\Unobtainium\Cobalt.IPSecurity\Cobalt.IPSecurity\bin\Debug\netcoreapp2.0\Cobalt.IPSecurity.runtimeconfig.dev.json
+C:\Projects\Unobtainium\Cobalt.IPSecurity\Cobalt.IPSecurity\bin\Debug\netcoreapp2.0\Cobalt.IPSecurity.dll
+C:\Projects\Unobtainium\Cobalt.IPSecurity\Cobalt.IPSecurity\bin\Debug\netcoreapp2.0\Cobalt.IPSecurity.pdb
+C:\Projects\Unobtainium\Cobalt.IPSecurity\Cobalt.IPSecurity\obj\Debug\netcoreapp2.0\Cobalt.IPSecurity.csproj.CoreCompileInputs.cache
+C:\Projects\Unobtainium\Cobalt.IPSecurity\Cobalt.IPSecurity\obj\Debug\netcoreapp2.0\Cobalt.IPSecurity.AssemblyInfoInputs.cache
+C:\Projects\Unobtainium\Cobalt.IPSecurity\Cobalt.IPSecurity\obj\Debug\netcoreapp2.0\Cobalt.IPSecurity.AssemblyInfo.cs
+C:\Projects\Unobtainium\Cobalt.IPSecurity\Cobalt.IPSecurity\obj\Debug\netcoreapp2.0\Cobalt.IPSecurity.dll
+C:\Projects\Unobtainium\Cobalt.IPSecurity\Cobalt.IPSecurity\obj\Debug\netcoreapp2.0\Cobalt.IPSecurity.pdb
+C:\Projects\Unobtainium\packages\Cobalt.IPSecurity\1.0.0.0\netcoreapp2.0\Cobalt.IPSecurity.deps.json
+C:\Projects\Unobtainium\packages\Cobalt.IPSecurity\1.0.0.0\netcoreapp2.0\Cobalt.IPSecurity.runtimeconfig.json
+C:\Projects\Unobtainium\packages\Cobalt.IPSecurity\1.0.0.0\netcoreapp2.0\Cobalt.IPSecurity.runtimeconfig.dev.json
+C:\Projects\Unobtainium\packages\Cobalt.IPSecurity\1.0.0.0\netcoreapp2.0\Cobalt.IPSecurity.dll
+C:\Projects\Unobtainium\packages\Cobalt.IPSecurity\1.0.0.0\netcoreapp2.0\Cobalt.IPSecurity.pdb
+C:\Projects\Unobtainium\Cobalt.IPSecurity\Cobalt.IPSecurity\obj\Debug\netcoreapp2.0\Cobalt.IPSecurity.csprojResolveAssemblyReference.cache
